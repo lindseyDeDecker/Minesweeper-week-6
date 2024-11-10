@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9IENL2rWlg8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kydec\\Desktop\\Lindsey School\\CST - 250\\Week 1\\Milestone 1\\MineSweeperGUI\\MineSweeperGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kydec\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\kydec\\.nuget\\packages\\servicestack.text\\8.4.0\\servicestack.text.8.4.0.nupkg.sha512",
+    "C:\\Users\\kydec\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\kydec\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
